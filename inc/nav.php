@@ -12,7 +12,7 @@
 					<div class="col-lg-2 text-center text-lg-left">
 						<!-- logo -->
 						<a href="./index.php" class="site-logo">
-							<h1 style="font-family: cursive; font-size: 30px; color: #0077b6; text-align: center;">JaySore</h1>
+							<h1 style="font-family: cursive; font-size: 30px; color: #0077b6; text-align: center;">JayStore</h1>
 						</a>
 					</div>
 					<div class="col-xl-6 col-lg-5">

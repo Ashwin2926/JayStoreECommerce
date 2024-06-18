@@ -52,7 +52,7 @@
 						<div class="col-xl-6 col-lg-7" style="color: #39B1A1;">
 						<h1  style="color: #0077b6;">JayStore</h1>
 							<p  style="color: #fff; font-weight: bold; ">At JayStore, we are committed to delivering products that meet the highest standards of quality, ensuring our customers receive durable and well-crafted apparel that they can enjoy for years to come.</p>
-							<a href="index.php" class="site-btn sb-line" style="color: #000000;">DISCOVER</a>
+							<a href="index.php" class="site-btn sb-line" style="color: #000000;">Shop Now</a>
 						</div>
 					</div>
 					<div class="offer-card text-white">
@@ -68,7 +68,7 @@
 						<div class="col-xl-6 col-lg-7"  style="color: #ffffff;">
 						<h1 style="color: #0077b6;">JayStore</h1>
 							<p  style="color: #fff; font-weight: bold; ">At JayStore, we are committed to delivering products that meet the highest standards of quality, ensuring our customers receive durable and well-crafted apparel that they can enjoy for years to come.</p>
-							<a href="index.php" class="site-btn sb-line" style="color: #000000;">DISCOVER</a>
+							<a href="index.php" class="site-btn sb-line" style="color: #000000;">Shop Now</a>
 						</div>
 					</div>
 					<div class="offer-card text-white">
